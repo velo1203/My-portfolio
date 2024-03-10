@@ -25,7 +25,8 @@ Nodejs 프레임워크 `Express`를 사용하여 프로젝트를 진행하였습
 평소에 Github를 주로 사용하는 편입니다.
 24년도에 들어와서 깃허브 사용을 매일매일 실천하는 중입니다.
 
-![이미지](https://github.com/velo1203/My-portfolio/raw/main/%EC%84%9C%EB%A1%A0/github%EB%82%B4%EC%97%AD.png)
+<img src="https://github.com/velo1203/My-portfolio/raw/main/%EC%84%9C%EB%A1%A0/github%EB%82%B4%EC%97%AD.png"
+width=300px>
 
 또한 NPM에 `라이브러리를` 주로 올리고 있습니다.
 간단한 데이터베이스 라이브러리와 서드파티 계정 정보 저장 라이브러리를 만들었습니다.
@@ -39,14 +40,23 @@ Nodejs 프레임워크 `Express`를 사용하여 프로젝트를 진행하였습
 # 프로젝트들
 
 저의 프로젝트들은 분야가 여러가지가 있습니다.
-프론트엔드와 백엔드와 파이썬을 사용합니다. 또한 GO언어를 사용하여 백엔드를 구축해 본 프로젝트가 있습니다.
+프론트엔드와 백엔드와 파이썬을 사용합니다. 또한 GO언어를 사용하여 백엔드를 구축해 본 프로젝트가 있습니다
 
-가장 많이 사용한 프로젝트 순서입니다.
+> 모든 프로젝트에 사진과 설명을 두었으나 만약에 한가지만 보셔야 한다면 [Colearn을](#3-colearn) 봐주시면 감사하겠습니다.
+
+또한 모든 프로젝트 헤더에는 링크가 있으니 참고 부탁드리겠습니다!
+
+# 프로젝트들
+
+아래는 저의 핵심 프로젝트들입니다.
+이 프로젝트들은 제가 가장 자신있는 프로젝트들입니다.
 
 1. [WrapperRepository](#2-wrapperrepository)
 2. [CloudBase](#2-cloudbase)
 3. [Colearn](#3-colearn)
 4. [타자교정 프로그램](#3-타자교정-프로그램)
+
+밑은 프로젝트 분야별 프로젝트 목록입니다.
 
 # 풀스택
 
@@ -76,7 +86,7 @@ Express-BoilerPlate는 Express.js를 사용하여 프로젝트를 시작할때 �
 
 ## 1.LMS
 
-학원의 요청을 받아 Lecture management system (LMS)를 개발한 경험이 있습니다. 비공식 프로젝트라 공개는 어렵지만 프론트엔드를 담당하게 되었고 `REACT.JS`를 이용하였습니다. 가장 어렵고 가장 큰 프로젝트였고 또한 개발보수 **130만원**을 받을 수 있었습니다.
+학원의 요청을 받아 Lecture management system (LMS)를 개발한 경험이 있습니다. 비공식 프로젝트라 공개는 어렵지만 프론트엔드를 담당하게 되었고 `REACT.JS`를 이용하였습니다.1달반 개발로 개발보수 **75만원**을 받을 수 있었습니다. (부분 진행중)
 
 ## 2. 디스코드봇 외주
 
@@ -127,3 +137,5 @@ OpenCV를 이용한 마우스 컨트롤 프로젝트입니다. 손가락을 인�
 ## 3. [타자교정 프로그램](https://github.com/velo1203/OpenCV-)
 
 OPENCV를 이용한 첫번째 보고서였습니다. 보고서의 구조를 알게 되었던 경험이었고 또한 사용자의 손가락이 정확히 키보드 위치에 맞는지 까지 확인해주는 엄격한 타자 프로그램이었습니다. 마찬가지로 `mediapipe`를 사용하였습니다.
+
+### [보고서 링크](https://docs.google.com/document/d/e/2PACX-1vRYpAEgpfpE1DbGkSJNfVIBl4WPpNbu38jRiA8Q6g66DWuNkxIQD6vFxTWQg786mAqqMF5Fq33p9sCn/pub)
