@@ -88,6 +88,8 @@ width=300px>
 
 [![유튜브링크](http://img.youtube.com/vi/MdeQ8oB0Hgs/0.jpg)](http://www.youtube.com/watch?v=MdeQ8oB0Hgs "Video Title")
 
+위는 코런의 유튜브 링크입니다.
+
 ## 4. [투두리스트](https://github.com/velo1203/Golang-Todo)
 
 GO언어를 처음 사용해보고 적용해본 프로젝트입니다. MVC구조를 명확히 알게 되었고 ORM라이브러리를 사용해보았습니다. 또한 JWT를 사용하여 인증을 구현해보았습니다.
